@@ -5,7 +5,7 @@
 </p>
 
 <p align="center"> <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js"/></p>
-<p align="center"> <img src="[https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)"/></p>
+<p align="center"> <img src="[https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js"/></p>
 
 Currently completing my first cohort to beocome a certified Full Stack Web Developer. I fell in love with coding creating my very first SPA for my Capstone project with Savvy Coders! My thurst and passion for web development inspired me to further my education to recieve my Security + certification with Claim Academy which is currently in progress.
 
