@@ -4,6 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Creative+Coder;Lifelong+Learner&center=true&width=440&height=45&color=F7AF3E&vCenter=true&pause=1000&size=22" />
 </p>
 
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 <p align="center"> <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js"/> <img src="[https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js"/></p>
 
 
