@@ -1,5 +1,6 @@
 ## I'm Tamia 👋
 
+Currently completing my first cohort to beocome a certified Full Stack Web Developer. I fell in love with coding creating my very first SPA for my Capstone project with Savvu Coders! My thurst and passion for web development inspired me to further my education to recieve my Security + certification with Claim Academy which is currently in progress.
 <!--
 **tamiac7/tamiac7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
