@@ -6,7 +6,6 @@
 
 <!-- HTML -->
 <p align="left"> <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></p>
-<p align="right"> <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></p>
 
 <p align="center"> <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js"/> <img src="[https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js"/></p>
 
